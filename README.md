@@ -1,4 +1,5 @@
-## Hi there 👋
+### McKinnon Lab
+McKinnon Lab at Stony Brook University, Stony Brook, USA.
 
 <!--
 **davidmckinnon/davidmckinnon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
